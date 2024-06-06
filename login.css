@@ -1,0 +1,33 @@
+body{
+    background-color: #5400f1 !important;
+    padding-top: 7vw;
+}
+
+.title{
+    font-size: 6vw;
+    margin-bottom: 6vw;
+    text-align: center;
+    font-family: 'extravaganzza', sans-serif;                                               
+}
+
+.title2{
+    font-size: 6vw;
+    margin-bottom: 6vw;
+    text-align: center;
+    font-family: 'extravaganzza', sans-serif;
+}
+
+.form-control{
+    width: 40% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.subtitle{
+    font-family: 'extravaganzza', sans-serif 
+}
+
+.btn{
+    background-color: #000000 !important;
+    border-color: transparent !important;
+}
